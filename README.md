@@ -11,12 +11,17 @@
 输入
 
 > 5
+>
 > Couple(James, David)
 >
 > Mother(James, Mike)
+>
 > Father(David, Mike)
+>
 > Mother(James, Ann)
+>
 > Sibling(Ann, Mike)
+>
 > Father
 
 输出
@@ -26,24 +31,43 @@
 输入
 
 > 18
+>
 > succ(0,1)
+>
 > succ(1,2)
+>
 > succ(2,3)
+>
 > succ(3,4)
+>
 > succ(4,5)
+>
 > succ(5,6)
+>
 > succ(6,7)
+>
 > succ(7,8)
+>
 > succ(8,9)
+>
 > pred(1,0)
+>
 > pred(2,1)
+>
 > pred(3,2)
+>
 > pred(4,3)
+>
 > pred(5,4)
+>
 > pred(6,5)
+>
 > pred(7,6)
+>
 > pred(8,7)
-> pred(9,8)  
+>
+> pred(9,8)
+>
 > pred
 
 输出
