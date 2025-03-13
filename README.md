@@ -15,7 +15,7 @@
 > Mother(James, Mike)
 > Father(David, Mike)
 > Mother(James, Ann)
-> Sibling(Ann, Mike)
+> Sibling(Ann, Mike)  
 > Father
 
 输出
@@ -42,7 +42,7 @@
 > pred(6,5)
 > pred(7,6)
 > pred(8,7)
-> pred(9,8)
+> pred(9,8)  
 > pred
 
 输出
