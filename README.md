@@ -12,10 +12,11 @@
 
 > 5
 > Couple(James, David)
+>
 > Mother(James, Mike)
 > Father(David, Mike)
 > Mother(James, Ann)
-> Sibling(Ann, Mike)  
+> Sibling(Ann, Mike)
 > Father
 
 输出
